@@ -1,11 +1,11 @@
-#Humans of New York Tumblr Application
+# Humans of New York Tumblr Application
 September 2016
 ###### iOS/Swift
-###Features:
+### Features:
 - AFNetworking Framework
 - Custom UITableViewCell, UIViewControllers
 - Pull refresh
 
-###Collaborator(s):
+### Collaborator(s):
 - @zdenham
 - Reviewer: @klampotang
